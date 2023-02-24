@@ -1,3 +1,9 @@
+"Project4.ipynb" is superseded by "project4.ipynb."
+
+Link to report: https://docs.google.com/document/d/1jNB5W7K7FZ5q_qEA_1WmPayS4rYIeeNwsotckT55Sjw/edit?usp=sharing
+
+Link to slides: https://docs.google.com/presentation/d/1rOjyxFaOJmhT8fK0mwQR1JP-t6m1yDzX_rgqzZkm-UA/edit?usp=sharing
+
 Obtained from https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 age: age in years 
